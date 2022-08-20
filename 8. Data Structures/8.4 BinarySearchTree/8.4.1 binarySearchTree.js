@@ -67,4 +67,4 @@ bst.insert(35);
 bst.insert(45);
 bst.insert(55);
 bst.insert(65);
-console.log(bst.find(40));
+// bst.find(40)
